@@ -31,3 +31,12 @@
 <br />
 
 6. Từ khóa `static`, `final` trong Java.
+
+<br />
+
+7. Dùng gì để xử lý ngoại lệ trong Java?
+- `catch` có thể mấy lần?
+- `finally` dùng làm gì? có bắt buộc có `finally` không?
+
+<br />
+
