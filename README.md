@@ -40,3 +40,28 @@
 
 <br />
 
+8. Code
+```java
+String s1 = "Hello";
+String s2 = "Hello";
+String s3 = new String("Hello");
+String s4 = new String("Hello");
+
+s1 == s2;
+s2 == s3;
+s3 == s4;
+
+s1.equals(s2);
+s2.equals(s3);
+s3.equals(s4);
+```
+
+<br />
+
+9. Tính tổng từ 1 đến 100.
+
+<br />
+
+10. Đếm số lượng số nguyên tố từ 1 đến 100.
+
+<br />
