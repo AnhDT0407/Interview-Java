@@ -30,17 +30,21 @@
 
 <br />
 
-6. Từ khóa `static`, `final` trong Java.
+6. `Generics` trong Java là gì? Ví dụ?
 
 <br />
 
-7. Dùng gì để xử lý ngoại lệ trong Java?
+7. Từ khóa `static`, `final` trong Java.
+
+<br />
+
+8. Dùng gì để xử lý ngoại lệ trong Java?
 - `catch` có thể mấy lần?
 - `finally` dùng làm gì? có bắt buộc có `finally` không?
 
 <br />
 
-8. Code
+9. Code
 ```java
 String s1 = "Hello";
 String s2 = "Hello";
@@ -58,10 +62,10 @@ s3.equals(s4);
 
 <br />
 
-9. Tính tổng từ 1 đến 100.
+10. Tính tổng từ 1 đến 100.
 
 <br />
 
-10. Đếm số lượng số nguyên tố từ 1 đến 100.
+11. Đếm số lượng số nguyên tố từ 1 đến 100.
 
 <br />
